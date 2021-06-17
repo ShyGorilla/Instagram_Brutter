@@ -1,0 +1,6 @@
+PyYAML~=5.4.1
+pandas~=1.2.4
+bs4~=0.0.1
+beautifulsoup4~=4.9.3
+selenium~=4.0.0a1
+pyarmor~=6.7.2
