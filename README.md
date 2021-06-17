@@ -23,7 +23,7 @@ Instagram Brutter is a tool that can do a Brute Force attack for instagram accou
 
 `python3 runner.py -u username -w path/of/the/wordlist.txt ` // To run the tool
 
-`usage: runner.py [-h]`
+usage: runner.py [-h]
 
 `-u USERNAME -w WORDLIST`
 
