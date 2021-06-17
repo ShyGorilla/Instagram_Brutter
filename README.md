@@ -29,5 +29,5 @@ usage: runner.py [-h]
 
 ## Screenshots
 
-![331E5958-5FF3-438B-BC5E-5D72517E9F88](https://user-images.githubusercontent.com/73632576/122439729-f2d06400-cfac-11eb-8251-6f101757f3be.JPG)
+<img width="450" high="650" alt="Screen Shot 2021-06-17 at 8 14 48 PM" src="https://user-images.githubusercontent.com/73632576/122439880-172c4080-cfad-11eb-9130-e0752addfe88.JPG">
 
