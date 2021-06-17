@@ -21,15 +21,10 @@ Instagram Brutter is a tool that can do a Brute Force attack for instagram accou
 
 `pip3 install -r requirements.txt` // Installing the requirements
 
-usage: runner.py [-h] -u USERNAME -w WORDLIST
-runner.py: error: the following arguments are required: -u/--username, -w/--wordlist
+`python3 runner.py -u username -w path/of/the/wordlist.txt ` // To run the tool
 
-`sudo ./dragon.sh` // To run the tool
-
-or you can do all that with only one command to copy
-`git clone https://github.com/ShyGorilla/dragon.git ; cd dragon ; chmod +x dragon.sh ; sudo ./dragon.sh`
-
-‘Press 2 to setup the tool’
+usage: runner.py [-h] 
+-u USERNAME -w WORDLIST
 
 ## Screenshots
 
