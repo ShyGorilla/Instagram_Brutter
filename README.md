@@ -8,6 +8,7 @@ Instagram Brutter is a tool that can do a Brute Force attack for instagram accou
 Download Chromedriver : https://chromedriver.chromium.org/downloads
 
 You have to check your browser version From ( Settings -> Advanced ). Then insert the driver to driver folder.
+
 ## Supported OS 💻
 
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
@@ -29,6 +30,8 @@ You have to check your browser version From ( Settings -> Advanced ). Then inser
 usage: runner.py [-h]
 
 `-u USERNAME -w WORDLIST`
+
+Whenever you get a waiting message for 10 minutes, reset your VPN to get a new ip.
 
 ## Screenshots
 
