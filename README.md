@@ -21,18 +21,37 @@ You have to check your browser version From ( Settings -> About ). Then insert t
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 
-## Build and install from source
-`git clone https://github.com/ShyGorilla/Instagram_Brutter.git` // Cloninng the tool
+## Build and install 🛠️
 
-`cd Instagram_Brutter` // Change the directory to the tool
+1. Cloninng the tool
 
-`pip3 install -r requirements.txt` // Installing the requirements
+```bash
+git clone https://github.com/ShyGorilla/Instagram_Brutter.git
+```
 
-`python3 runner.py -u username -w path/of/the/wordlist.txt ` // To run the tool
+2. Change the directory to the tool
+
+```bash
+cd Instagram_Brutter
+```
+
+3. Installing the requirements
+
+```bash
+pip3 install -r requirements.txt
+```
+
+4. To run the tool
+
+```bash
+python3 runner.py -u username -w path/of/the/wordlist.txt
+```
 
 usage: runner.py [-h]
 
-`-u USERNAME -w WORDLIST`
+```bash
+-u USERNAME -w WORDLIST
+```
 
 Whenever you get a waiting message for 10 minutes, reset your VPN to get a new ip.
 
