@@ -7,7 +7,7 @@ Instagram Brutter is a tool that can do a Brute Force attack for instagram accou
 
 Download Chromedriver : https://chromedriver.chromium.org/downloads
 
-You have to check your browser version From ( Settings -> Advanced ). Then insert the driver to driver folder.
+You have to check your browser version From ( Settings -> About ). Then insert the driver to driver folder.
 
 ## Supported OS 💻
 
